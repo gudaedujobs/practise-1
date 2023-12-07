@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello from logiclabs technologies!</h2>
+<h2>welcome from logiclabs technologies!</h2>
 </body>
 </html>
